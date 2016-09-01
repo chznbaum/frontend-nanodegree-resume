@@ -81,7 +81,7 @@ This is empty on purpose! Your code to build the resume will go here.
  	{
  		"title" : "Twitch TV JSON API",
  		"dates" : "August 2016",
- 		"description" : "A web tool which allows the user to check if various Twitch live-streamers are broadcasting and to view theier content, created with HTML, CSS, client-side JavaScript and APIs.",
+ 		"description" : "A web tool which allows the user to check if various Twitch live-streamers are broadcasting and to view their content, created with HTML, CSS, client-side JavaScript and APIs.",
  		"images" : ["images/twitchtvjsonapi.JPG"]
  	},
  	{
