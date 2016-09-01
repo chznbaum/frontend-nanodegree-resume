@@ -233,3 +233,4 @@ This is empty on purpose! Your code to build the resume will go here.
  work.display();
  projects.display();
  education.display();
+ $("#mapDiv").append(googleMap);
